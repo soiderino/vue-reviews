@@ -1,0 +1,12 @@
+@import url('https://rsms.me/inter/inter.css');
+
+* {
+  font-family: 'Inter', sans-serif !important;
+}
+
+img {
+  user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}
